@@ -3,12 +3,12 @@ Um projeto simples feito unicamente para testar o JavaScript. Tudo que ele faz e
 
 Caso o cliene acessando o site entre 00:00 - 11:59 a tela aparecerá assim:
 
-<img src="./assents/Manha.png">
+<img src="./assets/manha-screen.png">
 
 Se estiver acessando entre 12:00 - 17:59 a tela parecera assim:
 
-<img src="./assents/Tarde.png">
+<img src="./assets/tarde-screen.png">
 
 E cso esteja acessando entre 18:00 e 23:59, aparecera assim:
 
-<img src="./assents/Noite.png">
+<img src="./assets/noite-screen.png">
