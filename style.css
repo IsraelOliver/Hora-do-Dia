@@ -1,0 +1,47 @@
+body {
+    background: #7577fc;
+    font: normal 20px Arial;
+    color: #ffffff;
+
+}
+
+.cabecalho {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 50px;
+    color: #000000;
+}
+
+.corpo {
+    display: flex;
+    background: #ffffff;
+    border-radius: 100px;
+    padding: 15px;
+    width: 500px;
+    height: 350px;
+    color: #000000;
+    margin: auto ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img {
+    width: 400px;
+    border-radius: 100px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+}
+
+.img:hover {
+    width: 460px;
+}
+
+.rodape {
+    text-align: center;
+    font-style: italic;
+}
