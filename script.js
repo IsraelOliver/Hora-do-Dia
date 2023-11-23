@@ -5,7 +5,7 @@ function carregar() {
     var hora = data.getHours()
 
     //Para testar os horarios direfentes:
-    //var hora = 19
+    //var hora = 23
 
     msg.innerHTML = `Agora são ${hora} horas`
 

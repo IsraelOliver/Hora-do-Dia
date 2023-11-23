@@ -22,7 +22,7 @@ body {
     width: 500px;
     height: 350px;
     color: #000000;
-    margin: auto ;
+    margin: 100px auto 350px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     text-align: center;
     flex-direction: column;
